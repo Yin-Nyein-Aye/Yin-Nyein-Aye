@@ -1,13 +1,14 @@
 <h1 align="center">Hi there 👋 I'm Yin Nyein Aye!</h1>
-<h3>Web Developer</h3>
+<h3 align="center">Web Developer</h3>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Yin-Nyein-Aye)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/yinnyeinaye)
+[![Facebook](https://img.shields.io/badge/-Facebook?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/yinnyeinaye.nyeinnyein)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yinnyeinaye.yinnyein@gmail.com)
 
 Welcome to my Github page! I am Yin Nyein Aye and I major in IT at TTU.  
 
-<img align="right" alt="img" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Ffemale-programmer&psig=AOvVaw3LKBcrMYNIAqwDxbGVTod5&ust=1665576476354000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKD6gYeS2PoCFQAAAAAdAAAAABAD" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
