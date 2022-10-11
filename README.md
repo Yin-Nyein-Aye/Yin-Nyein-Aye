@@ -1,15 +1,14 @@
 <h1 align="center">Hi there 👋 I'm Yin Nyein Aye!</h1>
 <h3 align="center">Web Developer</h3>
 
+<img align="right" alt="img" src="https://github.com/Yin-Nyein-Aye/Yin-Nyein-Aye/blob/main/girl%20web%20developer.webp" width="50%" height="auto" />
+
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/yinnyeinaye.nyeinnyein)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Yin-Nyein-Aye)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/yinnyeinaye)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yinnyeinaye.yinnyein@gmail.com)
 
 Welcome to my Github page! I am Yin Nyein Aye and I major in IT at TTU.  
-
-<img align="right" alt="img" src="https://github.com/Yin-Nyein-Aye/Yin-Nyein-Aye/blob/main/girl%20web%20developer.webp" width="50%" height="auto" />
-
 
 #### 🌱 Things I am currently working on: 
 - Learning PHP laravel
