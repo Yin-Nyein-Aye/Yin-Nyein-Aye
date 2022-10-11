@@ -3,7 +3,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Yin-Nyein-Aye)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/yinnyeinaye)
-[![Facebook](https://img.shields.io/badge/-Facebook?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/yinnyeinaye.nyeinnyein)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/yinnyeinaye.nyeinnyein)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yinnyeinaye.yinnyein@gmail.com)
 
 Welcome to my Github page! I am Yin Nyein Aye and I major in IT at TTU.  
