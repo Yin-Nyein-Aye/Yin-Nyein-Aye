@@ -15,6 +15,8 @@ I major in IT at TTU.
 #### 🌱 Things I am currently working on: 
 - Learning PHP laravel
 - Learning Vue JS
+<br />
+<br />
 
 #### :computer: Programming languages and tools: 
 <p>
