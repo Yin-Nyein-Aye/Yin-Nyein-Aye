@@ -1,5 +1,5 @@
-### Hi there 👋 
-### This is Yin Nyein Aye!
+<h1 align="center">Hi there 👋 I'm Yin Nyein Aye!</h1>
+<h3>Web Developer</h3>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
