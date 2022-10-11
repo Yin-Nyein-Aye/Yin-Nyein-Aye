@@ -16,7 +16,6 @@ I major in IT at TTU.
 - Learning PHP laravel
 - Learning Vue JS
 <br />
-<br />
 
 #### :computer: Programming languages and tools: 
 <p>
