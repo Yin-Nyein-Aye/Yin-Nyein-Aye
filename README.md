@@ -17,7 +17,7 @@ Welcome to my Github page! I am Yin Nyein Aye and I major in IT at TTU.
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=YinNyeinAye&show_icons=true&theme=radical&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=YinNyeinAye&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></code>
