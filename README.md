@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Yin Nyein Aye!</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Web Developer</h3><br />
 
 <img align="right" alt="img" src="https://github.com/Yin-Nyein-Aye/Yin-Nyein-Aye/blob/main/girl%20web%20developer.webp" width="50%" height="auto" />
 
@@ -8,8 +8,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/yinnyeinaye)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yinnyeinaye.yinnyein@gmail.com)
 
-Welcome to my Github page!
-I am Yin Nyein Aye.
+Welcome to my Github page!<br />
+I am Yin Nyein Aye.<br />
 I major in IT at TTU.  
 
 #### 🌱 Things I am currently working on: 
