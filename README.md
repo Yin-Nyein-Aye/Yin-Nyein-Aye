@@ -8,7 +8,9 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/yinnyeinaye)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yinnyeinaye.yinnyein@gmail.com)
 
-Welcome to my Github page! I am Yin Nyein Aye and I major in IT at TTU.  
+Welcome to my Github page!
+I am Yin Nyein Aye.
+I major in IT at TTU.  
 
 #### 🌱 Things I am currently working on: 
 - Learning PHP laravel
