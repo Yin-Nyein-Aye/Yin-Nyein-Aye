@@ -8,7 +8,7 @@
 
 Welcome to my Github page! I am Yin Nyein Aye and I major in IT at TTU.  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/Yin-Nyein-Aye/Yin-Nyein-Aye/blob/main/girl%20web%20developer.webp" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
