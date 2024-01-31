@@ -12,9 +12,7 @@ Welcome to my Github page!<br />
 I am Yin Nyein Aye.<br />
 I major in IT at TTU.  
 
-#### 🌱 Things I am currently working on: 
-- Learning PHP laravel
-- Learning Vue JS
+#### 🌱 Things I am currently working as s Full Stack Web Developer 
 <br />
 
 #### :computer: Programming languages and tools: 
