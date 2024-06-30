@@ -19,15 +19,15 @@ I major in IT at TTU.
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=YinNyeinAye&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
+<code><img width="10%" src="https://download.logo.wine/logo/Laravel/Laravel-Logo.wine.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></code>
+<code><img width="8%" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+<code><img width="10%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqNIJ-DFc4_7VnGRezJsVMPaJAs3SxITznjw&s"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
+<code><img width="10%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrD_AKGbNLVoLq9HBeQ9MVkiVm47QCfcwR6A&s"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
