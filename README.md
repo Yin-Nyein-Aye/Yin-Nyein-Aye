@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yinnyeinaye.yinnyein@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1b6UekO85dGxmnFI7yjvU-0ua4Slp2JH7/view?usp=drive_link](https://drive.google.com/file/d/1b6UekO85dGxmnFI7yjvU-0ua4Slp2JH7/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1b6UekO85dGxmnFI7yjvU-0ua4Slp2JH7/view?usp=drive_link](https://drive.google.com/file/d/1cw-j0nXBAm_8z8pz_B_FvkL_YvRGMQBc/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
