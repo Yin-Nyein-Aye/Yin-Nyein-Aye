@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Yin Nyein Aye</h1>
-<h3 align="center">A passionate Full Stack Web Developer from Myanmar</h3>
+<h3 align="center">A passionate Full-Stack Web Developer from Myanmar, dedicated to building clean, scalable, and user-focused digital solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yin-nyein-aye&label=Profile%20views&color=0e75b6&style=flat" alt="yin-nyein-aye" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yin-nyein-aye" alt="yin-nyein-aye" /></a> </p>
 
-- 🔭 I’m currently working on **Billing Service**
+- 🔭 I’m currently working on **Billing Service and SocaiCampaign Management & Influencer Collaboration Platform**
 
 - 👨‍💻 All of my projects are available at [https://yin-nyein-aye-portfolio.vercel.app/](https://yin-nyein-aye-portfolio.vercel.app/)
 
-- 💬 Ask me about **Laravel,vue**
+- 💬 Ask me about **Laravel,Vue,React**
 
 - 📫 How to reach me **yinnyeinaye.yinnyein@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1b6UekO85dGxmnFI7yjvU-0ua4Slp2JH7/view?usp=drive_link](https://drive.google.com/file/d/1cw-j0nXBAm_8z8pz_B_FvkL_YvRGMQBc/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zgN6u38Ybg6oxex6OdD6zmTqzh2Hmfzm/view?usp=drive_link](https://drive.google.com/file/d/1zgN6u38Ybg6oxex6OdD6zmTqzh2Hmfzm/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
