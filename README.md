@@ -5,21 +5,41 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yin-nyein-aye" alt="yin-nyein-aye" /></a> </p>
 
-- 🔭 I’m currently working on **Billing Service and SocaiCampaign Management & Influencer Collaboration Platform**
+- 🔭 I’m currently working on **Billing Service and Socail Campaign Management & Influencer Collaboration Platform**
 
-- 👨‍💻 All of my projects are available at [https://yin-nyein-aye-portfolio.vercel.app](https://yinnyeinaye.vercel.app/)
+<!-- 👨‍💻 All of my projects are available at [https://yin-nyein-aye-portfolio.vercel.app](https://yinnyeinaye.vercel.app/) -->
 
 - 💬 Ask me about **Laravel,Vue,React**
 
 - 📫 How to reach me **yinnyeinaye.yinnyein@gmail.com**
 
-- 📄 Know about my experiences [View CV](https://drive.google.com/file/d/1zgN6u38Ybg6oxex6OdD6zmTqzh2Hmfzm/view?usp=drive_link)
+<!-- - 📄 Know about my experiences [View CV](https://drive.google.com/file/d/1zgN6u38Ybg6oxex6OdD6zmTqzh2Hmfzm/view?usp=drive_link) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/yinnyeinaye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/yinnyeinaye" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/yinnyeinaye.nyeinnyein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/yinnyeinaye.nyeinnyein" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/journeying with nyein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="journeying with nyein" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/yinnyeinaye" target="_blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      height="30"
+      width="40" />
+  </a>
+
+  <a href="https://www.facebook.com/yinnyeinaye.nyeinnyein" target="_blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="Facebook"
+      height="30"
+      width="40" />
+  </a>
+
+  <a href="https://www.youtube.com/c/journeyingwithnyein" target="_blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+      alt="YouTube"
+      height="30"
+      width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
