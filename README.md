@@ -32,7 +32,7 @@
 
 ## 🌐 Connect With Me
 
-<p style="display:flex; justify-content:center; gap:20px;">
+<p style="display:flex; justify-content:center; gap:30px;">
 
 <a href="https://linkedin.com/in/yinnyeinaye" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
@@ -50,7 +50,7 @@
 
 ## 🚀 Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=php,laravel,react,vue,js,html,css,tailwind,bootstrap,mysql,postgres,docker,kubernetes,firebase,git,postman,figma" />
+<img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,bootstrap,js,react,vue,php,laravel,zend,codeigniter,postman,mysql,postgres,firebase,docker,kubernetes,git" />
 
 </div>
 
@@ -60,8 +60,16 @@
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
+## 📊 GitHub Stats
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=yin-nyein-aye&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=yin-nyein-aye&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yin-nyein-aye&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
 
 </div>
 
@@ -70,6 +78,6 @@
 <div align="center">
 
 ## ⚡ Fun Fact
-🎸 I love playing guitar and building scalable web applications.
+🎸 I love building scalable web applications to solve real world problems.
 
 </div>
