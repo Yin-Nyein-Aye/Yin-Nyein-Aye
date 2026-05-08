@@ -27,25 +27,28 @@
 - **yinnyeinaye.yinnyein@gmail.com**
 
 ---
+
 <div align="center">
 
 ## 🌐 Connect With Me
 
+<p style="display:flex; justify-content:center; gap:20px;">
+
 <a href="https://linkedin.com/in/yinnyeinaye" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
-&nbsp;&nbsp;
+
 <a href="mailto:yinnyeinaye.yinnyein@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" height="50" />
 </a>
-&nbsp;&nbsp;
+
 <a href="https://www.facebook.com/yinnyeinaye.nyeinnyein" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg"
        height="45"
        width="45"
        style="background:white;border-radius:10px;padding:5px;" />
 </a>
-&nbsp;&nbsp;
+
 <a href="https://www.youtube.com/c/journeyingwithnyein" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg"
        height="45"
@@ -53,6 +56,7 @@
        style="background:white;border-radius:10px;padding:5px;" />
 </a>
 
+</p>
 </div>
 
 ---
